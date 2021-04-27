@@ -2,4 +2,4 @@
 
 Output Link
 
-https://agsuvidha.github.io/C37_InfiniteTrexCamera_LMS/
+https://agsuvidha.github.io/C37_InfiniteMonkeyCamera_LMS/
